@@ -10,7 +10,7 @@ Totalmente responsivo para dispositivo mobile, também conta com uma validação
 ![Bikcraft IMG](https://user-images.githubusercontent.com/107058501/188465693-20448a06-fba7-48fa-b181-b076a69e3227.png)
 
 ## 📁 Acesso ao projeto
-<a href="https://projetofinal-bikcraft.netlify.app/">Clique Aqui!</a>
+<a href="https://projetofinal-bikcraft.netlify.app/" target="_blank">Clique Aqui!</a>
 
 ## Stack utilizada
 
