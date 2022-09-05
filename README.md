@@ -2,7 +2,7 @@
 
 
 Nesse projeto foi desenvolvido um site completo no curso de HTML & CSS Avançado da Origamid.
-Totalmente responsivo para dispositivo mobile, também conta com uma validação de formulário com PHP.
+Totalmente responsivo para dispositivo mobile.
 
 
 ## Screenshot 
